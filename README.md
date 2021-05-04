@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=neiths98&hide=prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=neiths98&hide=prs&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
